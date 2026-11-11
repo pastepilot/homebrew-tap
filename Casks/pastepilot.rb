@@ -1,6 +1,6 @@
 cask "pastepilot" do
-  version "1.0.3"
-  sha256 "e72bff0ef4041aff8d1aade5d2a622737fb0eb3a9fd84ea53d27b576fcc0e59d"
+  version "1.0.4"
+  sha256 "a4a00db5c1b636486e6c0f3138dcb6f814c452185967a11fcd0bc27c8392d28c"
 
   url "https://releases.pastepilot.com/downloads/#{version}/PastePilot-#{version}.dmg"
   name "PastePilot"
